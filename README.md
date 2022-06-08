@@ -1,4 +1,4 @@
-# bitcoin
+# CryptoCurrency Tracker
 
 Track prices of cryptocurrencies
 
