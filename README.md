@@ -1,6 +1,6 @@
 # bitcoin
 
-A new Flutter project.
+Track prices of cryptocurrencies
 
 ## Getting Started
 
